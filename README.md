@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**HaCkErX2313/HaCkErX2313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+👨‍💻 Who Am I?<br>I'm Sumit Patel, a passionate and curious developer diving deep into Data Structures & Algorithms, Python Projects, and OOP. Currently working on a Library Management System and actively solving coding problems to sharpen my logic and development skills.<br><br>🎯 Learning: DSA in C++, OOP in Python, Web Dev<br>connvert into 📘 GitHub README.md<br>💡 Building: AI tools, resume analyzers, system apps<br><br>📚 Passionate about making code simple and accessible<br><br>🚀 Featured Project: ResuMatch<br>🎯 ResuMatch – AI-Powered Resume Reviewer & Smart Job Matcher<br>Optimize your resume. Unlock top job matches. All powered by AI.<br><br>🔗 GitHub Repo | 🌐 Live site coming soon<br><br>ResuMatch is your intelligent AI Career Assistant, designed to make your job search smarter and faster. It helps you:<br><br>📄 Analyze resumes using AI<br><br>📊 Get ATS optimization scores<br><br>🎯 Match jobs based on your resume<br><br>🧠 Discover skill gaps<br><br>📥 Export PDF feedback<br><br>⚙️ Get industry-specific suggestions<br><br>Tech Stack:<br>React.js, Tailwind CSS, Flask/FastAPI, GPT-4, spaCy, ResumeParser, Firebase, Vercel/Heroku<br><br>Perfect for: Students, developers, job seekers, and career switchers.<br>Built with ❤️ by Sumit Patel<br><br>🛠️ Skills & Tools<br>Languages:<br>Python C++ HTML CSS JavaScript<br><br>Tools & Tech:<br>VS Code GitHub Jupyter Notebook Firebase FastAPI React<br><br>Learning:<br>AI Integration NLP Tools API Development Authentication Systems<br><br>📘 Projects Snapshot<br>🧠 DSA in C++ – Solving classical and real-life coding problems<br><br>📚 Library Management System – Python-based system using OOP and file persistence<br><br>🛡️ Password Generator – CLI tool for strong password generation<br><br>📇 Contact Book – Full CRUD contact manager in Python<br><br>🔍 ResuMatch – AI-powered resume analysis and smart job matching platform<br><br>🎯 2025 Goals<br>✅ Master real-world OOP apps in Python<br><br>📘 Launch more career-focused dev tools like ResuMatch<br><br>🌐 Contribute to open source & tech communities<br><br>✍️ Start writing beginner-friendly blogs & tutorials<br><br>👨‍🏫 Help others learn coding through collaboration<br><br>🌐 Let’s Connect<br>🔗 LinkedIn (add yours)<br><br>📸 Instagram (dev tips, reels, tech life)<br><br>🐦 Twitter<br><br>📹 YouTube (Coming Soon?)<br><br>💡 Fun Fact<br>I'm not just into code – I love simplifying tech, teaching others, and blending creativity with logic.<br>Oh, and music composition is my secret power 🎼<br><br>“Code. Break it. Build it Better.” – Sumit Patel
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sumit_231305) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sumit Patel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Vinay22patel22@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HaCkErX2313&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HaCkErX2313&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HaCkErX2313&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HaCkErX2313&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=HaCkErX2313&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=HaCkErX2313&icon=2&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Sumit) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Sumit) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Sumit) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
